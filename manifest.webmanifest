@@ -1,0 +1,17 @@
+{
+  "name": "Mine Empire \u2014 Idle Mining",
+  "short_name": "Mine Empire",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#14241b",
+  "theme_color": "#19382b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
